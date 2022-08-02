@@ -1,4 +1,4 @@
-### Hi there, I'm Utkarsh @utkarshtambe10
+### Hi there, I'm Utkarsh aka - @utkarshtambe10
 
 ## I'm a Student, Developer and Enthusiast Learner!
 - 👀 I’m interested in Computer Science related fields....
@@ -12,4 +12,8 @@
 <br/>
 
 ### Languages and Tools:
+<<<<<<< HEAD
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" />]
+=======
+https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png
+>>>>>>> 6ca3702d8a5e011d3003069cb5af139fb6878a52

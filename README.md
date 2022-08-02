@@ -1,4 +1,4 @@
-### Hi there, I'm Utkarsh @utkarshtambe10
+### Hi there, I'm Utkarsh aka - @utkarshtambe10
 
 ## I'm a Student, Developer and Enthusiast Learner!
 - 👀 I’m interested in Computer Science related fields....

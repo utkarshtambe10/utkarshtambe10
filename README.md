@@ -7,7 +7,7 @@
 - 📰 I'm working on different innovative projects.
 - 📫 Reach to me by mailing on mailto:utkarsh.tambe33@gmail.com
 
-<h2> -> Connect with me!!! <h2/>
+<h2 dir="auto"> -> Connect with me!!! <h2/>
 
 <br/>
 <br/>
@@ -15,29 +15,32 @@
 <br/>
 <br/>
 
-<h2> -> Tech Stack </h2>
+<h2 dir="auto"> -> Tech Stack </h2>
 
-<h3> 📙 Languages: </h3>
-<img align="left" alt="C" width="48px" src="https://user-images.githubusercontent.com/89902664/182829873-8cd35121-b34c-4b3b-88bb-5c958491658f.png"/>
+<h3 dir="auto"> 📙 Languages: </h3>
+<p dir="auto">
+<img align="left" alt="C" width="55px" src="https://user-images.githubusercontent.com/89902664/182829094-4eefafa6-a8f0-4ca0-a695-024cfe1b5775.png"/>
 <img align="left" alt="C++" width="50px" src="https://user-images.githubusercontent.com/89902664/182829102-f933dbd8-16bd-437d-8ded-d32ab87abb6a.png"/>
 <img align="left" alt="Python" width="50px" src="https://user-images.githubusercontent.com/89902664/182829114-5ad0da6a-acf5-4ad5-a990-92fbc51b546f.png"/>
 <img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/89902664/182822744-0b674c81-8816-4113-8478-2ba3a4078504.png"/>
 <img align="left" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/89902664/182822225-97a02ed7-04aa-4778-9f38-b6cec40b68e0.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-<br/>
-<br/>
-<br/>
+</p>
+</br>
+</br>
+</br>
 
-<h3> 🧰 Version Control: </h3>
-
+<h3 dir="auto"> 🧰 Version Control: </h3>
+<p dir="auto">
 <img align="left" alt="Git" width="50px" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"/>
 <img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"/>
-<br/>
-<br/>
-<br/>
+</p>
+</br>
+</br>
+</br>
 
 
-<h3> 🔨 Tools: <h3/>
+<h3 dir="auto"> 🔨 Tools: </h3>
 <img align="left" alt="Visual Studio" width="50px" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png"/>
 <img align="left" alt="Postman" width="50px" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png"/>
 <br/>

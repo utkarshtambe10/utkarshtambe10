@@ -6,10 +6,13 @@
 - 💞️ I’m looking to collaborate on Web Development, MERN Stack, Data Structures and Algorithms, etc.
 - 📰 I'm working on different innovative projects.
 - 📫 Reach to me by mailing on mailto:utkarsh.tambe33@gmail.com
-##
 
 <h2> -> Connect with me!!! <h2/>
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 <h2> -> Skills!!! <h2/>
@@ -33,7 +36,7 @@
 
 <h3> 🌐 Web Development: <h3/>
 <img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"/>
-<img align="left" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png"/>
+<img align="left" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/89902664/182822225-97a02ed7-04aa-4778-9f38-b6cec40b68e0.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
 <img align="left" alt="Bootstrap" width="50px" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png"/>
 <img align="left" alt="React" width="50px" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png"/>

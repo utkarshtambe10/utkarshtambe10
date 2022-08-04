@@ -18,7 +18,7 @@
 <h2> -> Tech Stack </h2>
 
 <h3> 📙 Languages: </h3>
-<img align="left" alt="C" width="50px" src="https://user-images.githubusercontent.com/89902664/182829873-8cd35121-b34c-4b3b-88bb-5c958491658f.png"/>
+<img align="left" alt="C" width="48px" src="https://user-images.githubusercontent.com/89902664/182829873-8cd35121-b34c-4b3b-88bb-5c958491658f.png"/>
 <img align="left" alt="C++" width="50px" src="https://user-images.githubusercontent.com/89902664/182829102-f933dbd8-16bd-437d-8ded-d32ab87abb6a.png"/>
 <img align="left" alt="Python" width="50px" src="https://user-images.githubusercontent.com/89902664/182829114-5ad0da6a-acf5-4ad5-a990-92fbc51b546f.png"/>
 <img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/89902664/182822744-0b674c81-8816-4113-8478-2ba3a4078504.png"/>

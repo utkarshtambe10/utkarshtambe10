@@ -16,9 +16,9 @@
 
 * 💻 Currently learning many new concepts through courses on Web Development, Machine Learning and Data Science.
 
-* 📰 Solving Data Structures and Algorithms problems on various platforms.
+* 📝 Solving Data Structures and Algorithms problems on various platforms.
 
-* Subscribe to my Tech-writings:
+* 📰 Subscribe to my Tech-writings:
 <p align="center">
 <a target="_blank" href="https://schnellcoder50.hashnode.dev/">
    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
@@ -52,7 +52,7 @@ Find out more about me & feel free to connect with me here:
 
 ## <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> Coding Platforms ->
 
-Find out more about my coding skills and feel free to ask your doubts here.
+Find out more about my coding skills and feel free to ask your doubts here:
 
 <p align="center">
 	<a target="_blank" href="#">

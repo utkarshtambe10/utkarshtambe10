@@ -1,6 +1,6 @@
 # Hi there, I'm Utkarsh aka - @utkarshtambe10
 
-<h2> -> I'm a Student, Developer and Enthusiast Learner! <h2/>
+## -> I'm a Student, Developer and Enthusiast Learner!
 - 👀 I’m interested in Computer Science related fields....
 - 🌱 I’m currently learning many new concepts through courses on Web Development, Machine Learning and Data Science...
 - 💞️ I’m looking to collaborate on Web Development, MERN Stack, Data Structures and Algorithms, etc.

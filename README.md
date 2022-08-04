@@ -1,4 +1,4 @@
-# Hey! Great to see you here! I'm Utkarsh *aka* - **@utkarshtambe10** <img src="https://user-images.githubusercontent.com/89902664/182851700-1b698037-5cbf-481b-b677-5a19ada1af65.gif" width="30px" height="30px">
+# Hey!! Great to see you here! I'm Utkarsh *aka* - @schnell_coder50 <img src="https://user-images.githubusercontent.com/89902664/182851700-1b698037-5cbf-481b-b677-5a19ada1af65.gif" width="30px" height="30px">
 
 ---
 
@@ -28,7 +28,7 @@
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a target="_blank" href="https://www.linkedin.com/in/utkarshtambe10/">
+	<a target="_blank" href="https://www.linkedin.com/in/utkarshtambe-10/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a target="_blank" href="https://twitter.com/utkarshtambe_10">

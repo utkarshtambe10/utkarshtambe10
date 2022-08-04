@@ -38,7 +38,7 @@
 <img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/89902664/182822744-0b674c81-8816-4113-8478-2ba3a4078504.png"/>
 <img align="left" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/89902664/182822225-97a02ed7-04aa-4778-9f38-b6cec40b68e0.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-<img align="left" alt="Bootstrap" width="50px" src="https://user-images.githubusercontent.com/89902664/182823569-b7c52e46-0a98-457a-8dae-f6b5d1e08edb.png"/>
+<img align="left" alt="Bootstrap" width="60px" src="https://user-images.githubusercontent.com/89902664/182823569-b7c52e46-0a98-457a-8dae-f6b5d1e08edb.png"/>
 <img align="left" alt="React" width="50px" src="https://user-images.githubusercontent.com/89902664/182823227-e8388694-2ea0-4fb7-a760-9c3885e60633.png"/>
 <img align="left" alt="npm" width="50px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"/>
 <br/>

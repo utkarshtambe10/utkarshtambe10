@@ -1,4 +1,4 @@
-# Hey!! Great to see you here! I'm Utkarsh *aka* - @schnell_coder50 <img src="https://user-images.githubusercontent.com/89902664/182851700-1b698037-5cbf-481b-b677-5a19ada1af65.gif" width="30px" height="30px">
+# Hey!! Great to see you here! I'm @schnell_coder50 <img src="https://user-images.githubusercontent.com/89902664/182851700-1b698037-5cbf-481b-b677-5a19ada1af65.gif" width="30px" height="30px">
 
 ---
 

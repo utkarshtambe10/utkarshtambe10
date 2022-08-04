@@ -39,7 +39,7 @@
 <img align="left" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/89902664/182822225-97a02ed7-04aa-4778-9f38-b6cec40b68e0.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
 <img align="left" alt="Bootstrap" width="50px" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png"/>
-<img align="left" alt="React" width="50px" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png"/>
+<img align="left" alt="React" width="50px" src="https://user-images.githubusercontent.com/89902664/182823227-e8388694-2ea0-4fb7-a760-9c3885e60633.png"/>
 <img align="left" alt="npm" width="50px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"/>
 <br/>
 <br/>

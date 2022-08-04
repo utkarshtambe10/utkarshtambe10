@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-<h2> -> Skills!!! <h2/>
+<h2> -> Skills!!! </h2>
 <h3> 🧰 Version Control: <h3/>
 
 <img align="left" alt="Git" width="50px" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"/>

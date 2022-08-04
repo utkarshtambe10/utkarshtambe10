@@ -28,4 +28,3 @@
 3. https://dev.to/envoy_/150-badges-for-github-pnk
 4. https://github.com/alexandresanlim/Badges4-README.md-Profile
 5. https://github.com/progfay/shields-with-icon/blob/master/README.md
-6. 

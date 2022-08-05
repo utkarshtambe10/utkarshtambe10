@@ -1,4 +1,4 @@
-# Hey!! Great to see you here! I'm @schnell_coder50 <img src="https://user-images.githubusercontent.com/89902664/182851700-1b698037-5cbf-481b-b677-5a19ada1af65.gif" width="30px" height="30px">
+# Hey!!! Great to see you here!! <img src="https://user-images.githubusercontent.com/89902664/182851700-1b698037-5cbf-481b-b677-5a19ada1af65.gif" width="30px" height="30px">
 
 ---
 
@@ -7,6 +7,11 @@
 <a target="_blank" href="https://drive.google.com/file/d/12VCQ5X9_Vcw4-ezDzfdXsJrK0a6mAMC6/view?usp=sharing"><img src="https://user-images.githubusercontent.com/89902664/182850613-44cc07c0-d817-4c59-a73a-2a7c3ecd4301.png"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=For+Resume%2C+TAP+the+above+Banner.)](https://git.io/typing-svg)
 
+<p align="center">
+<a target="_blank" href="https://hits.sh/github.com/silentsoft/hits/">
+    <img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg?style=for-the-badge&label=Profile%20Views&color=2962FF&labelColor=black"/>
+</a>
+</p>
 
 * 📖 Pursuing my Bachelor's degree in **Computer Science and Engineering** *w/s* in **Big Data Analytics** from [SRM Institute of Science and Technology, Chennai (Main Campus)](https://www.srmist.edu.in/). 
 
@@ -50,7 +55,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-## <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> Coding Platforms ->
+## <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> Coding Platforms
 
 Find out more about my coding skills and feel free to ask your doubts here:
 
@@ -85,6 +90,7 @@ Find out more about my coding skills and feel free to ask your doubts here:
 
 ### 🚀 Languages
 
+<div>
 <img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
@@ -94,12 +100,14 @@ Find out more about my coding skills and feel free to ask your doubts here:
 <img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Latex" width="50px" src="https://user-images.githubusercontent.com/89902664/182928542-f6b78f19-3514-48ab-adce-ae4c7c01ec91.svg" style="padding-right:10px;"/>
-<br/>
-<br/>
-<br/>
+</div>
+<br />
+<br />
+<br />
 
 ### 🧩 Libraries & Framework
 
+<div>
 <img align="left" alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Gulp.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Jquery" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
@@ -110,13 +118,15 @@ Find out more about my coding skills and feel free to ask your doubts here:
 <img align="left" alt="npm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="OpenCV" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="ScikitLearn" width="80px" src="https://user-images.githubusercontent.com/89902664/182840320-c040f644-70af-4125-88bd-b13f44a7688a.png" style="padding-right:10px;"/>
-<br/>
-<br/>
-<br/>
+</div>
+<br />
+<br />
+<br />
 
 
 ### 🔨 Tools & Platforms
 
+<div>
 <img align="left" alt="Terminal" width="60px" src="https://user-images.githubusercontent.com/89902664/182926166-6fe140d8-f6c8-421d-9ed4-32648cdc7805.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/89902664/182918954-8c9739e7-c59b-49bb-9e7b-493ce7384b59.png" style="padding-right:10px;"/>
@@ -125,86 +135,42 @@ Find out more about my coding skills and feel free to ask your doubts here:
 <img align="left" alt="Canva" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Premiere-Pro" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;"/>
-<br/>
-<br/>
-<br/>
+</div>
+<br />
+<br />
+<br />
 
 ### 💻 Workspace
 
+<div>
 <img align="left" alt="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/>
-<br/>
-<br/>
-<br/>
+</div>
+<br />
+<br />
+<br />
 
 ---
 
-## 📈 Stats
+## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarshtambe10&show_icons=true&hide_border=true&theme=flag-india" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshtambe10&hide_border=true&theme=flag-india" />
 </p>
 
 ---
-
-## ✍🏻 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Google Summer of Code with GNOME Foundation.](https://dev.to/asmit2952/google-summer-of-code-with-gnome-foundation-5adj)
-- [What is a vector search engine?](https://dev.to/asmit2952/what-are-vector-search-engines-3lp1)
-- [What is SEO?](https://dev.to/asmit2952/what-is-seo-1dj6)
-- [What is SAWO Labs Champ Program?](https://dev.to/asmit2952/what-is-sawo-labs-champ-program-41id)
-- [What is FOSSology and how to set it up?](https://dev.to/asmit2952/what-is-fossology-and-how-to-set-it-up-4j47)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
-
----
-
-## 📕 Pinned Repositories
-
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
-</a>
-
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshtambe10&layout=compact&lang_count=5&hide_border=true&theme=flag-india" />
 </p>
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
-
 ---
 
+## 📈 Contribution Graph
+
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+     <img alt="Contribution-Graph" src="https://activity-graph.herokuapp.com/graph?username=utkarshtambe10&bg_color=ffffff&color=4cbb17&line=ffa500&point=000080&area=true&hide_border=true" />
 </p>

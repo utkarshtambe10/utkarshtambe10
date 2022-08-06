@@ -4,7 +4,7 @@
 
 ## 👨 Profile Section
 
-<a target="_blank" href="https://drive.google.com/file/d/12VCQ5X9_Vcw4-ezDzfdXsJrK0a6mAMC6/view?usp=sharing"><img src="https://user-images.githubusercontent.com/89902664/182850613-44cc07c0-d817-4c59-a73a-2a7c3ecd4301.png"></a>
+<a target="_blank" href="https://drive.google.com/file/d/1RCcLpJVGs7Rh27woC1NaX7b992x7SqXl/view?usp=sharing"><img src="https://user-images.githubusercontent.com/89902664/182850613-44cc07c0-d817-4c59-a73a-2a7c3ecd4301.png"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=For+Resume%2C+TAP+the+above+Banner.)](https://git.io/typing-svg)
 
 <p align="center">

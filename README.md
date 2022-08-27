@@ -136,6 +136,7 @@ Find out more about my coding skills and feel free to ask your doubts here:
 <img align="left" alt="Canva" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Premiere-Pro" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Tableau" width="50px" src="https://user-images.githubusercontent.com/89902664/187017106-a1661038-aaae-4f8e-a6a0-4159c0a9ff6f.png" style="padding-right:10px;"/>
 </div>
 <br />
 <br />

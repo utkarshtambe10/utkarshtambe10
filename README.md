@@ -119,6 +119,7 @@ Find out more about my coding skills and feel free to ask your doubts here:
 <img align="left" alt="yarn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="OpenCV" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="ScikitLearn" width="80px" src="https://user-images.githubusercontent.com/89902664/182840320-c040f644-70af-4125-88bd-b13f44a7688a.png" style="padding-right:10px;"/>
+<br />
 <img align="left" alt="Numpy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Keras" width="50px" src="https://user-images.githubusercontent.com/89902664/188227148-f8ffe1ba-8bc2-4f4f-a01d-94ec4b026484.png" style="padding-right:10px;"/>
 </div>

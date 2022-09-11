@@ -75,11 +75,14 @@ Find out more about my coding skills and feel free to ask your doubts here:
         <a target="_blank" href="https://leetcode.com/schnell_coder50/">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
-  <a target="_blank" href="https://www.codingninjas.com/codestudio/profile/b667d9f9-a9ee-4615-9fbd-c25187826b01">
+  	<a target="_blank" href="https://www.codingninjas.com/codestudio/profile/b667d9f9-a9ee-4615-9fbd-c25187826b01">
 		<img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />
 	</a>
-  <a target="_blank" href="https://auth.geeksforgeeks.org/user/schnellcoder50/profile">
+  	<a target="_blank" href="https://auth.geeksforgeeks.org/user/schnellcoder50/profile">
 		<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+	</a>
+	<a target="_blank" href="#">
+		<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 	</a>
 </p>
 

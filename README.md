@@ -82,7 +82,7 @@ Find out more about my coding skills and feel free to ask your doubts here:
 		<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 	</a>
 	<a target="_blank" href="#">
-		<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+		<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=" />
 	</a>
 </p>
 

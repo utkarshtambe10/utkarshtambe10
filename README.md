@@ -115,6 +115,7 @@ Find out more about my coding skills and feel free to ask your doubts here:
 <img align="left" alt="Gulp.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Jquery" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="React.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Redux.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Express.js" width="50px" src="https://user-images.githubusercontent.com/89902664/182920971-519a6940-08fd-49b8-9741-23173c104994.svg" style="padding-right:10px;"/>
 <img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;"/>

@@ -190,5 +190,5 @@ Find out more about my coding skills and feel free to ask your doubts here:
 ## 📈 Contribution Graph
 
 <p align="center">
-     <img alt="Contribution-Graph" src="https://activity-graph.herokuapp.com/graph?username=utkarshtambe10&bg_color=ffffff&color=4cbb17&line=ffa500&point=000080&area=true&hide_border=true" />
+     <img alt="Contribution-Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=utkarshtambe10&bg_color=ffffff&color=4cbb17&line=ffa500&point=000080&area=true&hide_border=true" />
 </p>

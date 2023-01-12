@@ -174,7 +174,7 @@ Find out more about my coding skills and feel free to ask your doubts here:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarshtambe10&show_icons=true&hide_border=true&theme=flag-india" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshtambe10&hide_border=true&theme=flag-india" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=utkarshtambe10&hide_border=true&theme=flag-india" />
 </p>
 
 ---
